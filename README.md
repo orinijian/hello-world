@@ -1,4 +1,4 @@
 # hello-world
 hello github
-I don't use English well.
-sorry
+好好学习,天天向上
+yeah,sir!
